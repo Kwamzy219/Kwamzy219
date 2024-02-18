@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kwamzy219
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Data Analysis 
 - 💞️ I’m looking to collaborate on with same great minds
 - 📫 you can kindly reach me through kwamzfred@gmail.com
 
