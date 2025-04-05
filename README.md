@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kwamzy219
-- 👀 I’m interested in Data Analysis 
+- 👋 Hi, I’m Emmanuel
+- 👀 I’m interested in AIX and Database 
 - 💞️ I’m looking to collaborate on with same great minds
 - 📫 you can kindly reach me through kwamzfred@gmail.com
 
